@@ -15,7 +15,7 @@ img{
     position: relative;
     width:30vw;
     height:80vh;
-    min-height:100vh;
+    
 }
 
 .img-container-before,.img-container-after{
@@ -32,6 +32,7 @@ body{
     display: flex;
     align-items: center;
     justify-content:center;
+    min-height: 100vh;
 }
 .slider{
     width:0.5rem;
